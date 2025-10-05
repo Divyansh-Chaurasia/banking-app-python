@@ -1,0 +1,8 @@
+Python Project ---- BANK MANAGEMENT SYSTEM
+by SANGRAM BAVADHANE BT24CSE091 and DIVYANSH CHAURASIA BT24CSE094
+
+We have used a python library Tkinter for creating the GUI of our software.
+For handling the data, the DBMS uses is MySQL, which is implemented in python using PyMySQL.
+
+Our project is capable of handling the customer data entered by the software user.
+It includes features like adding a customer, deleting a customer, updating the existing detail, withdrawing money from the customer's account and depositing money in the customer's account.
